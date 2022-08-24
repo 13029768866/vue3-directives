@@ -1,7 +1,11 @@
 import focus  from './focus.js'
+import color from './color.js'
+import draggable from './draggable.js'
 
 const directives = {
-  focus
+  focus,
+  color,
+  draggable
 }
 
 export default {
